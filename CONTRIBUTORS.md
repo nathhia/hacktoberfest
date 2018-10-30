@@ -48,6 +48,11 @@
 - Bio: Student Developer
 - GitHub: [Abdullateef](https://github.com/abdullateef97)
 
+#### Name: [NATHHIA](https://github.com/nathhia)
+- Place: Recife, Bazil
+- Bio: Computer Sciences Student
+- GitHub: [NATHHIA](https://github.com/nathhia)
+
 #### Name: [Abhay Gawade](https://github.com/abhaygawade)
 - Place: Pune, Maharashtra, India
 - Bio: Technology enthusiastic!
